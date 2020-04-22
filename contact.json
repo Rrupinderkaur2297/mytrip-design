@@ -1,0 +1,32 @@
+{"contact":[
+	{
+		"name": "Agnes Agnew",
+		"address": "37 vanier drive",
+		"phone": "226-898-2130",
+        "image": "staff/agnes.gif"
+	},
+	{
+		"name": "Damon Dell",
+		"address": "49 vanier drive",
+		"phone": "226-898-2134",
+        "image": "staff/damon.gif"
+	},
+	{
+		"full_name": "Herbert Huff",
+		"address": "seibert ave",
+		"phone": "226-898-2166",
+        "image": "staff/herbert.gif"
+	},
+	{
+		"full_name": "Mike Masters",
+		"address": "traynor ave",
+		"phone": "226-898-4444",
+        "image": "staff/mike.gif",
+	},
+	{
+		"full_name": "Wilbur Wilkes",
+		"address": "89 fairway",
+		"phone": "226-898-2789",
+        "image": "staff/wilbur.gif"
+	}
+]}
